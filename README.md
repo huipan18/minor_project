@@ -17,26 +17,16 @@ Ethereum Wallet (e.g., MetaMask)
 Truffle Suite (for smart contract development)
 Ganache (for local blockchain testing)
 Installation
-Clone the repository:
-
-
-
-git clone https://github.com/your-username/blockchain-voting-system.git
-cd blockchain-voting-system
-Install dependencies:
-
 
 
 npm install
 Compile the smart contracts:
 
-bash
-Copy code
+
 truffle compile
 Migrate the smart contracts to the blockchain:
 
-bash
-Copy code
+
 truffle migrate
 Run the application:
 
