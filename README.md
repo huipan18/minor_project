@@ -42,4 +42,5 @@ Contributions are welcome! Please fork this repository and submit a pull request
 
 Name: Keerat Panwar
 Email: keeratpanwar1804@gmail.com
+linkedin: https://www.linkedin.com/in/keerat-panwar-981914144/
 
